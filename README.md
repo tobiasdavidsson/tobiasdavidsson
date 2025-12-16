@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tobias 👋
 
-<!--
-**tobiasdavidsson/tobiasdavidsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building open source infrastructure for built environment.
 
-Here are some ideas to get you started:
+## 🚀 Current Project
+**USP (Unified Semantic Pipeline)** - Normalizing building automation data (OT) using open standards (ISO 81346, Brick Schema, Haystack).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ [usp-open](https://github.com/usp-open)
+
+## 🔗 Links
+- Website: [davidsson.dev](https://davidsson.dev)
+- LinkedIn: [tobiasdavidsson](https://linkedin.com/in/tobiasdavidsson)
+
+## 📫 Contact
+hello@davidsson.dev
